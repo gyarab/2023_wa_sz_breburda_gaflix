@@ -13,6 +13,7 @@ pip install -r requirements.txt
 <img src="https://media.tenor.com/8WPW-T8L3nkAAAAM/bocchi-the-rock-bocchi.gif" width="300" height="300" />
 <img src="https://preview.redd.it/spinning-ryo-v0-ptnc0nvm8p7a1.gif?width=480&auto=webp&s=0d48e18579e07bcd3fce1de83c858870b21d96b2" width="300" height="300" />
 <img src="https://media.tenor.com/-FrcCsUig4sAAAAC/spin-bocchi.gif" width="300" height="300" />
-<img src="https://tenor.com/view/bocchi-the-rock-bocchi-hitori-gif-27014251" width="300" heigh="300"/>
+<img src="https://media1.tenor.com/m/qkPV6_DL-NAAAAAd/bocchi-the-rock-bocchi.gif" width="300" heigh="300"/>
 
 </p>
+
