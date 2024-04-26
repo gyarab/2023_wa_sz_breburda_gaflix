@@ -1,12 +1,12 @@
 # 2023_wa_sz_breburda_gaflix
-```
+```bash
 git clone git@github.com:gyarab/2023_wa_sx_chalupnicek_gaflix.git
 cd 2023_wa_sx_chalupnicek_gaflix/
 py -3 -m venv venv
 source ./venv/Scripts/activate
 pip install -r requirements.txt
 
-```bash
+```
 <p align="center" width="100%">
 <img src="https://media1.tenor.com/m/rF0FAVZm63wAAAAC/bocchi-bocchi-the-rock.gif" width="300" height="300">
 <img src="https://static.wikia.nocookie.net/frieren/images/6/62/Spell_to_create_mana_butterflies.gif/revision/latest/scale-to-width-down/300?cb=20240118235019" height="300" width="404" />
