@@ -1,6 +1,6 @@
 # 2023_wa_sz_breburda_gaflix
 ```bash
-git clone git@github.com:gyarab/2023_wa_sx_chalupnicek_gaflix.git
+git clone git@github.com:gyarab/2023_wa_sz_breburda_gaflix.git
 cd 2023_wa_sz_breburda_gaflix/
 py -3 -m venv venv
 source ./venv/Scripts/activate
