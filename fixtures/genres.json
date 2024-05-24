@@ -1,9 +1,51 @@
 [
-    {
-        "model": "filmy.genre",
-        "pk": 1,
-        "fields": {
-            "name": "action"
-        }
-    }
+{
+  "model": "filmy.genre",
+  "pk": 1,
+  "fields": {
+    "name": "action"
+  }
+},
+{
+  "model": "filmy.genre",
+  "pk": 2,
+  "fields": {
+    "name": "comedy"
+  }
+},
+{
+  "model": "filmy.genre",
+  "pk": 3,
+  "fields": {
+    "name": "fantasy"
+  }
+},
+{
+  "model": "filmy.genre",
+  "pk": 4,
+  "fields": {
+    "name": "sci-fi"
+  }
+},
+{
+  "model": "filmy.genre",
+  "pk": 5,
+  "fields": {
+    "name": "thriller"
+  }
+},
+{
+  "model": "filmy.genre",
+  "pk": 6,
+  "fields": {
+    "name": "adventure"
+  }
+},
+{
+  "model": "filmy.genre",
+  "pk": 7,
+  "fields": {
+    "name": "romance"
+  }
+}
 ]

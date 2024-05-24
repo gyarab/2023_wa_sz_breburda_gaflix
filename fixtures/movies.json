@@ -1,35 +1,90 @@
 [
-    {
-        "model": "filmy.movie",
-        "pk": 1,
-        "fields": {
-            "name": "Pelisky",
-            "year": 1999,
-            "footage": 116,
-            "description": "A je tu",
-            "main_picture": ""
-        }
-    },
-    {
-        "model": "filmy.movie",
-        "pk": 2,
-        "fields": {
-            "name": "Samotari",
-            "year": 2000,
-            "footage": 109,
-            "description": "Sedm mladých lidí ve věku od 23 do 33 let se na konci devadesátých let ve velkém městě pokouší praktikovat cosi, čemu se dříve říkalo milostný vztah. A tak na sebe milostně narážejí a nechávají se unášet napříč dlouhodobějšími či krátkodobějšími vztahy, které je dovedou zpět do samoty. Robert pracuje v cestovní kanceláři a rád rozplétá a splétá osudy lidí. Napomůže rozchodu Hanky a Petra, který se pokouší pochopit život skrze nahrávky „opravdového života“ pouštěné do éteru. Zatímco je Hanka pronásledována Ondřejem, do té doby uznávaným lékařem a otcem rodiny, seznamuje se s Jakubem, jehož pozitivnímu pohledu na svět pomáhá pravidelné užívání marihuany. Na druhé straně to ale způsobuje zhoršování jeho krátkodobé paměti, takže se v jejich vztahu objevují problémy. Zklamaná Hanka hledá pochopení u rodičů, ale doma najde jen dvacet Japonců sledujících „normální rodinku při normální večeři“",
-            "main_picture": ""
-        }
-    },
-    {
-        "model": "filmy.movie",
-        "pk": 3,
-        "fields": {
-            "name": "Django unchained",
-            "year": 2012,
-            "footage": 165,
-            "description": "Pa...",
-            "main_picture": ""
-        }
-    }
+{
+  "model": "filmy.movie",
+  "pk": 1,
+  "fields": {
+    "name": "Pelisky",
+    "year": 1999,
+    "footage": 116,
+    "description": "A je tu",
+    "main_picture": "",
+    "director": null,
+    "actors": [],
+    "genres": []
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 2,
+  "fields": {
+    "name": "Samotari",
+    "year": 2000,
+    "footage": 109,
+    "description": "Sedm mladých lidí ve věku od 23 do 33 let se na konci devadesátých let ve velkém městě pokouší praktikovat cosi, čemu se dříve říkalo milostný vztah. A tak na sebe milostně narážejí a nechávají se unášet napříč dlouhodobějšími či krátkodobějšími vztahy, které je dovedou zpět do samoty. Robert pracuje v cestovní kanceláři a rád rozplétá a splétá osudy lidí. Napomůže rozchodu Hanky a Petra, který se pokouší pochopit život skrze nahrávky „opravdového života“ pouštěné do éteru. Zatímco je Hanka pronásledována Ondřejem, do té doby uznávaným lékařem a otcem rodiny, seznamuje se s Jakubem, jehož pozitivnímu pohledu na svět pomáhá pravidelné užívání marihuany. Na druhé straně to ale způsobuje zhoršování jeho krátkodobé paměti, takže se v jejich vztahu objevují problémy. Zklamaná Hanka hledá pochopení u rodičů, ale doma najde jen dvacet Japonců sledujících „normální rodinku při normální večeři“",
+    "main_picture": "",
+    "director": null,
+    "actors": [],
+    "genres": []
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 3,
+  "fields": {
+    "name": "Django unchained",
+    "year": 2012,
+    "footage": 165,
+    "description": "Pa...",
+    "main_picture": "",
+    "director": null,
+    "actors": [],
+    "genres": []
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 4,
+  "fields": {
+    "name": "Sword Art Online: Progressive - Hoshinaki Yoru no Aria",
+    "year": 2021,
+    "footage": 97,
+    "description": "Return to the death game where it all began—Sword Art Online. In this new Aincrad Arc by original creator Reki Kawahara, the story is seen through Asuna’s eyes. What at first seems like a dream come true quickly becomes a nightmare when newbie gamer Asuna Yuuki learns the only way to escape the virtual world of Aincrad is to beat all 100 levels—but “Game Over” means you die in the real world.",
+    "main_picture": "",
+    "director": 2,
+    "actors": [
+      2,
+      3,
+      4
+    ],
+    "genres": [
+      1,
+      3,
+      6,
+      7
+    ]
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 5,
+  "fields": {
+    "name": "Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo",
+    "year": 2022,
+    "footage": 100,
+    "description": "Theatrical follow-up to Sword Art Online: Progressive - Hoshinaki Yoru no Aria.\r\n\r\nThis may be a game, but it's not something you play.\r\n\r\nThe world's first VRMMORPG (Sword Art Online) became a game of death. Over a month has passed since 10,000 users were trapped inside the game world. Asuna, who cleared the first floor of the floating iron castle of Aincrad, joined up with Kirito and continued her journey to reach the top floor. With the support of female Information Broker Argo, clearing the floors seemed to be progressing smoothly, but…\r\n\r\nConflict erupts between two major guilds who should be working together – the top player groups ALS (the Aincrad Liberation Squad) and DKB (the Dragon Knights Brigade). And meanwhile, behind the scenes exists a mysterious figure pulling the strings….\r\n\r\nIn a dangerous battle of death, there is an assault that differs from the threat, and it will involve Asuna and Kirito…!\r\n\r\n(Source: Aniplex)",
+    "main_picture": "",
+    "director": 2,
+    "actors": [
+      2,
+      3,
+      4
+    ],
+    "genres": [
+      1,
+      3,
+      6,
+      7
+    ]
+  }
+}
 ]

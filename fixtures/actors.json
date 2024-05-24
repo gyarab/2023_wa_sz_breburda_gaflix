@@ -1,2 +1,42 @@
 [
+{
+  "model": "filmy.actor",
+  "pk": 1,
+  "fields": {
+    "name": "Johny Depp",
+    "birth_year": 1963,
+    "description": "",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.actor",
+  "pk": 2,
+  "fields": {
+    "name": "Tomatsu Haruka",
+    "birth_year": null,
+    "description": "Birth:Feb 4, 1990\r\nAge:34\r\nGender:Female\r\nYears active:2007-Present\r\nHometown:Nagoya, Aichi Prefecture, Japan\r\nBlood Type:B\r\n\r\nHeight: 165 cm\r\n\r\nWebsite | Blog\r\n\r\nTomatsu debuted in 2007, starring in Shinkyoku Soukai Polyphonica as Corticarte Apa Lagranges. Since then, she has had other major roles such as Lala Satalin Deviluke in To Love-Ru and Shiho Sannomiya in Zettai Karen Children. Before graduating from high school in 2008, she used to live in Ichimomiya city where she often took the shinkansen, traveling back and forth between Nagoya and Tokyo to attend recordings. On January 11, 2019, she married a man from outside the entertainment industry.\r\n\r\nOne of the members of the voice actress unit Sphere.\r\n\r\nNon-anime roles:\r\n\r\n    Mary - Goddess of Victory: Nikke (VG)",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.actor",
+  "pk": 3,
+  "fields": {
+    "name": "Matsuoka Yoshitsugu",
+    "birth_year": null,
+    "description": "Birth:Sep 17, 1986\r\nAge:37\r\nGender:Male\r\nYears active:2009-Present\r\nHometown:Obihiro, Hokkaido Prefecture, Japan\r\nBlood Type:O\r\n\r\nHeight: 165 cm\r\nAgency: I'm Enterprise\r\n\r\nProfile | Anison\r\n\r\nA voice actor currently affiliated with I'm Enterprise. He was honored at the 6th Seiyu Awards as Best New Actor in 2012 and the 10th Seiyu Awards as Best Lead Actor in 2016.\r\n\r\nNon-Anime Roles:\r\n• Xiao (Genshin Impact)\r\n• Ryker (Rune Factory 5)\r\n• Vision Driver, Laser Raise Riser, and Suel (Kamen Rider Geats)\r\n• Law (Tales Of Arise)",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.actor",
+  "pk": 4,
+  "fields": {
+    "name": "Minase Inori",
+    "birth_year": null,
+    "description": "Birth:Dec 2, 1995\r\nAge:28\r\nGender:Female\r\nYears active:2010-Present\r\nHometown:Tokyo, Japan\r\nBlood Type:B\r\n\r\nHeight: 154 cm\r\nAgency: AXL-ONE\r\n\r\nWebsite | Profile (AXL-ONE) | Twitter | Instagram | YouTube\r\n\r\nA Japanese voice actress and singer-songwriter under entertainment agency Axlone (2017–) and record label King Records (2015–), having previously been under entertainment agency Sony Music Entertainment (2010–2017). She has been active as a voice actor since 2010, debuting in the anime Occult Academy voicing the character Akari Okamoto, while debuting as a singer-songwriter in December 2015.\r\n\r\nInori was born in Tokyo, where she began watching anime in kindergarten. She first became aware of voice acting when, after watching a stage play adaption of an anime, she read the stage pamphlet and asked her parents about a person mentioned in it. She found out that she wanted to become a voice actor at the age of six, and at elementary school she listed voice acting as her desired future career.\r\n\r\nIn middle school, Inori joined her school's tennis and theater clubs, however, she quit the theater club due to feeling too embarrassed when appearing on stage. Around the same time, her mother found a magazine advertising for a voice-acting audition, which she participated in and won.\r\n\r\n(Source: Wikipedia, edited)\r\n\r\nNon-anime roles:\r\n\r\n    Iris - Memento Mori (VG)\r\n    Soline - Goddess of Victory: Nikke (VG)\r\n    Furina - Genshin Impact (VG)",
+    "main_picture": ""
+  }
+}
 ]

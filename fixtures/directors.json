@@ -1,12 +1,22 @@
 [
-    {
-        "model": "filmy.director",
-        "pk": 1,
-        "fields": {
-            "name": "Tarantino",
-            "birth_year": null,
-            "description": "",
-            "main_picture": ""
-        }
-    }
+{
+  "model": "filmy.director",
+  "pk": 1,
+  "fields": {
+    "name": "Tarantino",
+    "birth_year": null,
+    "description": "",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 2,
+  "fields": {
+    "name": "Kouno Ayako",
+    "birth_year": null,
+    "description": "Gender:Female\r\nYears active:2004-Present",
+    "main_picture": ""
+  }
+}
 ]
