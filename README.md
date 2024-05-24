@@ -14,6 +14,6 @@ py manage.py migrate
 <br/>
 <img src="https://i.kym-cdn.com/photos/images/original/002/708/201/88d.gif" width="300" height='300' />
 <img src="https://img10.reactor.cc/pics/post/Frieren-Sousou-no-Frieren-Anime-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-8193731.gif" width="300" height="300" />
-<img src="//imgur.com/dwqBDOd">
+<img src="https://imgur.com/dwqBDOd">
 </p>
 
