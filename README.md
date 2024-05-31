@@ -1,4 +1,6 @@
 # 2023_wa_sz_breburda_gaflix
+
+Windows
 ```bash
 git clone git@github.com:gyarab/2023_wa_sz_breburda_gaflix.git
 cd 2023_wa_sz_breburda_gaflix/
@@ -6,6 +8,17 @@ py -3 -m venv venv
 source ./venv/Scripts/activate
 pip install -r requirements.txt
 py manage.py migrate
+
+```
+
+Linux
+```bash
+git clone git@github.com:gyarab/2023_wa_sz_breburda_gaflix.git
+cd 2023_wa_sz_breburda_gaflix/
+python -m venv venv
+source ./venv/bin/activate
+pip install -r requirements.txt 
+python manage.py migrate
 
 ```
 <p align="center" width="100%">
